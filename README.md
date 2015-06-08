@@ -1,2 +1,2 @@
 # GitTutorial
-Learning how to Git!
+I'm learning how to Git!
